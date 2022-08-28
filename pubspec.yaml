@@ -37,7 +37,6 @@ dependencies:
   flutter_paystack: ^1.0.5+1
   async: ^2.5.0
 
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
